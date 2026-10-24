@@ -198,3 +198,5 @@ simply how these tools work in practice.
 > 🛟 **Still stuck?** Open an issue and include your OS and the steps you tried — the guide above solves 9 out of 10 problems.
 
 *age-of-empires-4-assistant-pack · Updated 2026-10-24 · Shared under the MIT License*
+
+<!-- rev 2026-10-24 -->
